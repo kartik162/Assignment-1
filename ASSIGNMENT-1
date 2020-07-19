@@ -1,0 +1,21 @@
+Q:> WHAT IS YOUR UNDERSTANDING OF BLOCKCHAIN?
+A:> As blockchain is a technology which is a combination of database and cryptography. It also contains security, efficiency, and durability.
+Q:> WHAT IS THE CORE PROBLEM BLOCKCHAIN TRYING TO SOLVE?
+A:> As a finical crisis arises in 2008, a man called Satoshi Nakamoto who invited a white paper which is also known as bitcoin which made transparency in field of banking.
+Blockchain is trying to make transparency between the user and the bank that the user can easily interact with data of the bank of their specified account. Blockchain also trying to secure the account details regarding the users  account so that no one else can interact unauthorized way or can steal money directly.
+
+Q:> WHAT ARE THE FEW FEATURES WHICH BLOCKCHAIN WILL GIVE U ?
+A:> 1. SECURITY
+        2. TRANSPARENCY
+        3. DECENTRELIZED TECHNOLOGY
+        4. EASY SETTLEMENT
+
+Q:> WHAT ALL THINGS do A BLOCK CONTAIN?
+A:> It contains: 
+•	Block number
+•	Transaction record
+•	Previous block key
+•	Mining key
+
+Q:>How is the verifiability of Blockchain is been attained?
+A:> Verification in blocblockchain is a consensus mechanism based process. Since blockchain acts as a decentralized ledger with multiple nodes in the network, the transaction must be verified by all nodes.  The transactions in a blockchain are referred to by their hash.
